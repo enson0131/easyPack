@@ -12,3 +12,6 @@
 3 可以分析模块之间的依赖关系
 4 实现类似于webpack.config.js，对文件入口，输出结果进行配置
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210215205608609.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NoZW5fZW5zb25fMQ==,size_16,color_FFFFFF,t_70)
+
+### 执行
+通过npm run build 即可编译打包文件，输出至dist目录的main.js
